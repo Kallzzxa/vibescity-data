@@ -1,0 +1,11 @@
+{
+  "client_config": {
+    "app_server_status": true,
+    "app_beta_status": false,
+    "game_version": "1.0.9",
+    "game_url": "https://github.com/Kallzzxa/vibescity-data/releases/download/data-v1/vibescity-data.zip",
+    "version_code": 159,
+    "url_launcher": "",
+    "url_cache_files": "https://raw.githubusercontent.com/Kallzzxa/vibescity-data/master/files.json"
+  }
+}

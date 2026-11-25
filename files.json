@@ -812,7 +812,7 @@
     },
     {
       "name": "colorcycle.dat",
-      "size": 15455,
+      "size": 13612,
       "path": "data/colorcycle.dat",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/colorcycle.dat"
     },
@@ -956,7 +956,7 @@
     },
     {
       "name": "gta.dat",
-      "size": 3776,
+      "size": 7449,
       "path": "data/gta.dat",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/gta.dat"
     },
@@ -968,13 +968,13 @@
     },
     {
       "name": "info.zon",
-      "size": 28139,
+      "size": 46564,
       "path": "data/info.zon",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/info.zon"
     },
     {
       "name": "map.zon",
-      "size": 436,
+      "size": 990,
       "path": "data/map.zon",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/map.zon"
     },
@@ -1256,7 +1256,7 @@
     },
     {
       "name": "dynamic.ide",
-      "size": 4611,
+      "size": 6675,
       "path": "data/maps/generic/dynamic.ide",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/maps/generic/dynamic.ide"
     },
@@ -1268,7 +1268,7 @@
     },
     {
       "name": "multiobj.ide",
-      "size": 5020,
+      "size": 5465,
       "path": "data/maps/generic/multiobj.ide",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/maps/generic/multiobj.ide"
     },
@@ -1826,7 +1826,7 @@
     },
     {
       "name": "object.dat",
-      "size": 126118,
+      "size": 150407,
       "path": "data/object.dat",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/object.dat"
     },
@@ -1838,7 +1838,7 @@
     },
     {
       "name": "carrec.img",
-      "size": 2357248,
+      "size": 2629632,
       "path": "data/paths/carrec.img",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/paths/carrec.img"
     },
@@ -1964,7 +1964,7 @@
     },
     {
       "name": "timecyc.dat",
-      "size": 52230,
+      "size": 40037,
       "path": "data/timecyc.dat",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/timecyc.dat"
     },
@@ -1988,7 +1988,7 @@
     },
     {
       "name": "water.dat",
-      "size": 70099,
+      "size": 169058,
       "path": "data/water.dat",
       "url": "https://promotional-petite-pairs-pens.trycloudflare.com/files/data/water.dat"
     },
